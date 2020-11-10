@@ -1,6 +1,6 @@
 What's Rarsero?
 ===============
-Rarsero is a free script written in Python which reads the Robots.txt
+Rarsero is a free script written in Rust which reads the Robots.txt
 file of a web server and looks at the Disallow entries. The Disallow
 entries tell the search engines what directories or files hosted on a
 web server mustn't be indexed. For example, "Disallow: /portal/login"
